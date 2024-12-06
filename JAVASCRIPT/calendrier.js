@@ -5,7 +5,7 @@ const specialDays = {
     16: `<img src="https://static.fnac-static.com/multimedia/Images/FR/NR/c0/5d/9c/10247616/1540-1/tsp20181116081409/Le-Grinch-Je-suis-le-Grinch.jpg" alt="grinch" style="max-width: 100%; border-radius: 10px;">`,
     22: `<img src="https://static.fnac-static.com/multimedia/Images/FR/NR/c0/5d/9c/10247616/1540-1/tsp20181116081409/Le-Grinch-Je-suis-le-Grinch.jpg" alt="grinch" style="max-width: 100%; border-radius: 10px;">`,
     24: `<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" style="color: white; text-decoration: none;">🎁 Joyeux Noël ! Cliquez ici 🎄</a>`,
-    3: `<img src="IMAGES/lyreco.jpg" alt="lyreco" style="max-width: 100%; border-radius: 10px;">`
+    3: `<img src="../IMAGES/lyreco.jpg" alt="lyreco" style="max-width: 100%; border-radius: 10px;">`
 };
 
 // Liste des facts
